@@ -1,4 +1,4 @@
-# Electro-Store
+# Lemonade
 # Forum App in React & Redux + Django
 
 ```
@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://backenderic.herokuapp.com/) here!!
 
 1. Git Clone 
 ```
-Git Clone https://github.com/EricLiv/selfdevelopment.git
+Git Clone https://github.com/akash-techis/llemonade.git
 ```
 
 2. Backend setting
